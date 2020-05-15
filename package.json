@@ -1,0 +1,15 @@
+{
+  "name": "MavSearch",
+  "version": "1.0.0",
+  "description": "Ötlet:\r Egy web app, ami egy vonat azonosító bevitele alapján (PL.: s36, z30 stb...) kiadja az arra vonatkozó vonatnak az adatait.\r Esetleg advanced filterek, pl: megállóhely, idő, stb...\r Bevitel:\r \tDesktop: text\r \tMobile: QRcode/text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "git-cz": "^4.3.1"
+  }
+}
