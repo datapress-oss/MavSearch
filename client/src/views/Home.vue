@@ -2,11 +2,14 @@
   <div class="home">
     <input type="text" v-model="dataID">
     <h1>{{ dataID }}</h1>
+    <button v-on:click="send">
+      elküldés
+    </button>
   </div>
 </template>
 
 <script>
-// @ is an alias to /src
+import {Fetchy} from './../Fetchy.js'
 
 export default {
   name: 'Home',
@@ -18,8 +21,9 @@ export default {
   components: {
     },
   methods: {
-    send: function () {
-      alert(this.dataID)
+    send: async function () {
+      const response = await Fetchy.Get(`http://localhost:3000/train/${this.dataID}`);
+      
     }
   }
 }
