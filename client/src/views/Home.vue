@@ -23,7 +23,8 @@ export default {
   methods: {
     send: async function () {
       const response = await Fetchy.Get(`http://localhost:3000/train/${this.dataID}`);
-      
+      // temp return 'response' to avoid error
+      return response
     }
   }
 }
