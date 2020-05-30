@@ -1,11 +1,15 @@
 <template>
-  <div class="home">
-    <input type="text" v-model="dataID">
-    <h1>{{ dataID }}</h1>
-    <button v-on:click="send">
-      elküldés
-    </button>
-  </div>
+  <v-form>
+    <v-container>
+      <v-row align-center justify-center class="home">
+        <v-col>
+        <v-text-field v-model="dataID"  label="Vonat ID"></v-text-field>
+        <h1>{{dataID}}</h1>
+        <v-btn small c-on:click="send"> Elküldés </v-btn>
+        </v-col>
+      </v-row>
+    </v-container>
+  </v-form>
 </template>
 
 <script>
