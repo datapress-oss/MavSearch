@@ -35,9 +35,9 @@
 
 | Hét 2020-ban | Eltöltött idő (percben) | Tárgy                        |
 | -----------: | ----------------------: | :--------------------------- |
-|          20. |                         |                              |
+|          20. |          120            |A Vue tanulása és Java tanulás|
 |              |                         |                              |
-|          21. |                         |                              |
+|          21. |          90             |Issues feladatok értelmezése  |
 |              |                         |                              |
-|          22. |                         |                              |
+|          22. |         150             |Az Issues feladatok megoldása |
 |              |                         |                              |
