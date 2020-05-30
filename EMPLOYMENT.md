@@ -13,11 +13,11 @@
 
 | Hét 2020-ban | Eltöltött idő (percben) | Tárgy                        |
 | -----------: | ----------------------: | :--------------------------- |
-|          20. |                         |                              |
+|          20. |                    90   | Felkészülés a projektra, Vue tanulás/research                        |
 |              |                         |                              |
-|          21. |                         |                              |
+|          21. |                    120  | Feladott issuek megoldása, struktúra felállítása                        |
 |              |                         |                              |
-|          22. |                         |                              |
+|          22. |                    100  | Oldal Vuetify-al való megoldása      |
 |              |                         |                              |
 
 ## Krisztián
