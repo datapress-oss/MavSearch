@@ -24,11 +24,11 @@
 
 | Hét 2020-ban | Eltöltött idő (percben) | Tárgy                        |
 | -----------: | ----------------------: | :--------------------------- |
-|          20. |                         |                              |
+|          20. |                    140  |   felkészülés a projektra    |
 |              |                         |                              |
-|          21. |                         |                              |
+|          21. |                    45   |   felkészülés a projektra/research      |
 |              |                         |                              |
-|          22. |                         |                              |
+|          22. |                    120  |   issue feladat megoldása    |
 |              |                         |                              |
 
 ## Ferenc
