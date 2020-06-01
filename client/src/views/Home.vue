@@ -1,6 +1,7 @@
 <template>
   <v-form>
     <v-container>
+      <Train/>
       <v-row align-center justify-center class="home">
         <v-col>
         <v-text-field v-model="dataID"  label="Vonat ID"></v-text-field>
