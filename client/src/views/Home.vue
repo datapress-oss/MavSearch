@@ -14,6 +14,7 @@
 
 <script>
 import {Fetchy} from './../Fetchy.js'
+import Train from './../components/Train.vue'
 
 export default {
   name: 'Home',
