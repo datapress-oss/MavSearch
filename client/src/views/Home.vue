@@ -20,7 +20,8 @@ export default {
   name: 'Home',
   data() {
     return {
-      'dataID': ''
+      'dataID': '', 
+      trainObj: null
     }
   },
   components: {Train
@@ -29,7 +30,8 @@ export default {
     send: async function () {
       const response = await Fetchy.Get(`http://localhost:3000/train/${this.dataID}`);
       // temp return 'response' to avoid error
-      return response
+     this.trainObj = response
+
     }
   }
 }
