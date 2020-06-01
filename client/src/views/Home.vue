@@ -23,7 +23,7 @@ export default {
       'dataID': ''
     }
   },
-  components: {
+  components: {Train
     },
   methods: {
     send: async function () {
