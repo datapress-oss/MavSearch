@@ -8,6 +8,8 @@
 |              |                         |                              |
 |          22. |                     380 | Segítség nyújtás Fecónak, npm és Vue error fix-ek |
 |              |                         |                              |
+|          23. |                     400 | Project vezetés és segítség a backend-en                            |
+|              |                         |                              |
 
 ## Csaba
 
@@ -18,6 +20,8 @@
 |          21. |                    120  | Feladott issuek megoldása, struktúra felállítása                        |
 |              |                         |                              |
 |          22. |                    100  | Oldal Vuetify-al való megoldása      |
+|              |                         |                              |
+|          23. |                         |                              |
 |              |                         |                              |
 
 ## Krisztián
@@ -30,6 +34,8 @@
 |              |                         |                              |
 |          22. |                    120  |   issue feladat megoldása    |
 |              |                         |                              |
+|          23. |                         |                              |
+|              |                         |                              |
 
 ## Ferenc
 
@@ -40,4 +46,6 @@
 |          21. |          90             |Issues feladatok értelmezése  |
 |              |                         |                              |
 |          22. |         150             |Az Issues feladatok megoldása |
+|              |                         |                              |
+|          23. |                         |                              |
 |              |                         |                              |
