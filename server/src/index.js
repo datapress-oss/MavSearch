@@ -1,16 +1,18 @@
+// import packages
 const express = require('express')
-const app = express()
-
 const compression = require('compression')
 const bodyParser = require('body-parser')
-
-const port = 3000
-
 const mongoose = require('mongoose')
 
+const port = 3000
+const app = express()
+
+// middlewares
 app.use(compression())
 app.use(bodyParser.json())
-const train = require('./routers/train_route')
+
+// Routes
+const train = require('./routes/train')
 app.use('/train', train)
 
 const start = async () => {
